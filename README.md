@@ -2,7 +2,7 @@
 Auto Script installer for all OS format 
 
 # Windows 
-Download a exe fill format for  windows and just run file 
+Download a ![EXE](https://github.com/tarfandor/Auto-installer/releases/download/untagged-fbe66900c30c48f6c82b/Auto.installer.exe) fill format for  windows and just run file 
 
 # linux and other OS
 download python files and run Auto-installer 
