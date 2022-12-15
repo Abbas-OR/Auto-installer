@@ -8,7 +8,7 @@
 
 > download python files and run Auto-installer 
 ```
-1. git clone https://github.com/tarfandor/Auto-installer.git
+1. git clone https://github.com/Abbas-OR/Auto-installer.git
 2. open file Locations
 3. python3 Auto-installer.py
 ```
